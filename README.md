@@ -1,6 +1,8 @@
 # Obtenção de grande volume de dados em Jobs
 Este repositório foi utilizado para a escrita do artigo sobre como trabalhar com uma grande quantidade de dados em jobs.
 
+O artigo pode ser encontrado na seguinte URL: https://www.fnbrandao.com.br/blog/2021/11/obtencao-de-grande-volume-de-dados-em-jobs/
+
 ## Requisitos
 Rodar um Oracle com o seguinte comando:
 ```
